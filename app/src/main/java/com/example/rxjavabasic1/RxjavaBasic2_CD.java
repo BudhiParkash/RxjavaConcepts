@@ -14,7 +14,7 @@ import io.reactivex.internal.functions.Functions;
 import io.reactivex.observers.DisposableObserver;
 import io.reactivex.schedulers.Schedulers;
 
-public class CompositeDisposables extends AppCompatActivity {
+public class RxjavaBasic2_CD extends AppCompatActivity {
 
     private static final String TAG = "CompositeDisposable";
 

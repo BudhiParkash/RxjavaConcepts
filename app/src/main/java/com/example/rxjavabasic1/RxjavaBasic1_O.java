@@ -13,7 +13,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Predicate;
 import io.reactivex.schedulers.Schedulers;
 
-public class MainActivity extends AppCompatActivity {
+public class RxjavaBasic1_O extends AppCompatActivity {
 
     private String TAG = "MainActivity";
 
